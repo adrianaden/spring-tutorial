@@ -12,6 +12,7 @@
 
     <modules>
         <module>simple-rest</module>
+        <module>simple-interceptor</module>
     </modules>
 
 </project>
