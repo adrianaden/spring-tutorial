@@ -13,6 +13,7 @@
     <modules>
         <module>simple-rest</module>
         <module>simple-interceptor</module>
+        <module>exception-handler</module>
     </modules>
 
 </project>
